@@ -79,7 +79,7 @@ Ensure Python is installed and your environment meets these requirements before 
 
 2. **Navigate to the Project Directory:**
     ```bash
-    cd ANTHONY0.8
+    cd Anthony0.8
     ```
 
 3. **Install Dependencies:**
