@@ -4,6 +4,8 @@
 
 After you run the [main.py](main.py) file, the assistant wakes up when you say 'Hello Anthony' and terminates when you say 'Goodbye Anthony'.
 
+![Conversation Example](example/conversation.png)
+
 **Author**: [Anthony Aoun](https://www.linkedin.com/in/anthony-m-aoun/)
 
 ---
